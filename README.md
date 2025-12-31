@@ -139,7 +139,7 @@ A current ratio larger than one means the firm has enough liquid assets to cover
 
 For more information about current ratios, refer to [Investopedia](https://www.investopedia.com/terms/c/currentratio.asp). I have compiled the balance sheet data from [this Kaggle page](https://www.kaggle.com/datasets/finnhub/reported-financials).
 
-# Loan Default Prediction Analysis
+# Loan Default rate Prediction Analysis
 
 **1. Introduction:**
 
