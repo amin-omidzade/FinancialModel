@@ -1,4 +1,4 @@
-# FinancialModel
+# Financial Model
 All syntax related to finance
 
 # ETF assignment :
